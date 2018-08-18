@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">spaghettify</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="title_activity_add_table">AddTableActivity</string>
+</resources>
